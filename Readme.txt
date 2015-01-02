@@ -12,8 +12,8 @@
 
                     Tower of Hanoi Game
 
-				  Designer: Yueyang Song
-				 (yueyangsong@foxmail.com)
+		    Designer: Yueyang Song
+		  (yueyangsong@foxmail.com)
 
 ************************************************************
 
@@ -84,7 +84,7 @@
 
           *                  *                  *
           *                  *                  *
-	 *                  *                  *
+	  *                  *                  *
 	  *                  *                  *
 	  *                  *                  *
 	  *                  *                 ###
